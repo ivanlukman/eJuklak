@@ -12,9 +12,9 @@ membuat aplikasi e-Juklak yang memungkinkan juklak diakses secara elektronik.
 
 `FRS001` Aplikasi e-Juklak dibuat dalam salah satu dari bentuk berikut:
 
-* Aplikasi Android
-* Aplikasi iPhone
-* Aplikasi Windows Phone
+* Aplikasi Android (nilai +)
+* Aplikasi iPhone (nilai ++)
+* Aplikasi Windows Phone (nilai ++)
 * Responsive Web Site (dapat dibaca dengan mudah di layar kecil)
 
 Format Juklak
@@ -105,5 +105,19 @@ Milestones
       repositori
     * Aplikasi mampu menampilkan daftar isi berdasarkan tag-tag header di HTML,
       dan dapat diklik untuk melompat ke halaman yang dituju
-5. `v1.0` Versi final pertama dari aplikasi, tidak ada lagi fitur yang "belum
-    diimplementasikan" atau "bug yang belum diperbaiki"
+5. `v1.0`
+    * Versi final pertama dari aplikasi, tidak ada lagi fitur yang "belum
+      diimplementasikan" atau "bug yang belum diperbaiki"
+    * Dokumentasi lengkap
+
+Dokumentasi
+===========
+
+Dokumentasi berisi:
+
+* Penjelasan cara menggunakan aplikasi
+* Penjelasan cara mem-build aplikasi dari source code yang ada di repositori
+* Penjelasan struktur program, seperti:
+     * Use Case Diagram
+     * Class Diagram beserta penjelasan tiap kelas.
+     * Sequence Diagram
